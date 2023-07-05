@@ -41,7 +41,8 @@
     <fragment
         android:id="@+id/termsFragment"
         android:name="au.com.niteshb.kotlinbasicsetup.ui.fragments.terms.TermsFragment"
-        android:label="TermsFragment" >
+        android:label="TermsFragment"
+        tools:layout="@layout/fragment_terms">
         <action
             android:id="@+id/action_termsFragment_to_homeFragment"
             app:destination="@id/homeFragment" />
@@ -49,7 +50,8 @@
     <fragment
         android:id="@+id/permissionFragment"
         android:name="au.com.niteshb.kotlinbasicsetup.ui.fragments.permission.PermissionFragment"
-        android:label="PermissionFragment" >
+        android:label="PermissionFragment"
+        tools:layout="@layout/fragment_permission" >
         <action
             android:id="@+id/action_permissionFragment_to_termsFragment"
             app:destination="@id/termsFragment"
