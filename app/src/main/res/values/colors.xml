@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@android:color/background_light</color>
+    <color name="secondary">#FFFFFF</color>
+    <color name="tertiary">#FF3700B3</color>
+    <color name="accent">#FF03DAC5</color>
+    <color name="statusBar">@android:color/background_light</color>
+</resources>

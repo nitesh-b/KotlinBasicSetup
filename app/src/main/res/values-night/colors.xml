@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@android:color/background_dark</color>
+    <color name="secondary">#212023</color>
+    <color name="tertiary">#625B71</color>
+    <color name="accent">#204541</color>
+    <color name="statusBar">@android:color/background_dark</color>
+</resources>
